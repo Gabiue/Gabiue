@@ -27,14 +27,13 @@ Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de 
 ---
 
 ## 💼 Projetos em destaque
-- 🔗 [C-Drops](https://github.com/GabiuE/C-Drops) → Prática diária de C e estruturas de dados.
 - 🔗 [Java-Drops](https://github.com/GabiuE/java-drops) → Prática diária de Java, com foco em POO, design patterns e algoritmos.
 
 ---
 
 ## 📫 Contato
-- ✉️ Email: **seuemail@gmail.com**
-- 💼 LinkedIn: [SeuNome](https://linkedin.com/in/seunome)
+- ✉️ Email: **gabrielkauerodrigues@gmail.com**
+- 💼 LinkedIn: [Gabriel Kaue](https://www.linkedin.com/in/gabriel-kaue/)
 - 🔗 Portfólio (futuro): **em construção...**
 
 ---
