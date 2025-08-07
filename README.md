@@ -20,9 +20,9 @@ Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de 
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=GabiuE&show_icons=true&theme=radical&hide_border=true" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabiuE&theme=radical&hide_border=true" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiuE&layout=compact&theme=radical&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=GabiuE&show_icons=true&theme=radical&hide_border=true" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabiuE&theme=radical&hide_border=true" />
+  <img width="18%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiuE&layout=compact&theme=radical&hide_border=true" />
 
 </p>
 
