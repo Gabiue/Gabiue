@@ -14,7 +14,7 @@ Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
-<img src="https://skillicons.dev/icons?i=java,spring,python,linux,git,vscode,github,figma,c" />
+<img src="https://skillicons.dev/icons?i=java,spring,linux,git,github" />
 
 ---
 
