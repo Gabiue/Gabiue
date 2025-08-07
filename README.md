@@ -6,8 +6,8 @@ Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de 
 ---
 
 ## 🚀 Sobre mim
-- 🔭 Atualmente focado em desenvolvimento **Java**, **C**, **Python** e arquitetura de software.
-- 🌱 Estudando: **JavaFX**, **Spring Boot**, **APIs REST**, **Estruturas de Dados**, **Design Patterns**.
+- 🔭 Atualmente focado em desenvolvimento **Java** e arquitetura de software.
+- 🌱 Estudando: **Java**, **Spring Boot**, **APIs REST**.
 - 🎯 Objetivo: Me tornar um desenvolvedor de alto nível, especialista em **backend** e software robusto.
 - 💡 Sempre buscando evoluir minhas habilidades, construir projetos reais e entregar software de qualidade.
 
