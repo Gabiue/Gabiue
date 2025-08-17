@@ -24,7 +24,7 @@ Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de 
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabiue&theme=radical&hide_border=true" />
 </p>
 <p align = "center">
-  <img width="3%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiue&layout=compact&theme=radical&hide_border=true"/>
+  <img width="30%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiue&layout=compact&theme=radical&hide_border=true"/>
 </p>
 ---
 
