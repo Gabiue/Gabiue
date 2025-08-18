@@ -25,7 +25,7 @@
 ---
 
 ## 🧰 Tecnologias & Ferramentas
-<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,idea,postman,mysql,linux,git,github" />
 
 ---
 
@@ -46,16 +46,20 @@
 
 ## 📫 Contato
 <p align="center">
-  <a href="mailto:gabrielkauerodrigues@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.linkedin.com/in/gabriel-kaue/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://github.com/Gabiue"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:gabrielkauerodrigues@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabriel-kaue/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;<a href="https://github.com/Gabiue"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
 
 
-<p align="center">
+<<p align="center">
   <em>"Learning • Coding • Growing"</em>
   <br>
   🎯 Java Developer in the making
+  <br>
+  <img src="https://img.shields.io/github/followers/Gabiue?style=social" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Gabiue&color=blueviolet&style=for-the-badge&label=VISITORS" />
 </p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
