@@ -1,8 +1,11 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gabriel%20Kauê&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff"/><br>
-Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de código e aprendizado constante.
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  
+  <h1>Gabriel Kauê</h1>
+  <h3>Java Developer | Backend Enthusiast | Always Learning</h3>
+  
+</div>
 
 ---
 
