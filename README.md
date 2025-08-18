@@ -45,16 +45,8 @@
 ---
 
 ## 📫 Contato
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="mailto:gabrielkauerodrigues@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-kaue/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/Gabiue">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<p align="center">
+  <a href="mailto:gabrielkauerodrigues@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.linkedin.com/in/gabriel-kaue/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://github.com/Gabiue"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
