@@ -1,7 +1,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-  
   <h1>Gabriel Kauê</h1>
   <h3>Java Developer | Backend Enthusiast | Always Learning</h3>
   
