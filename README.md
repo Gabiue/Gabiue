@@ -35,13 +35,13 @@
 <div align="center">
 
 ### **Backend**
-<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
 
 ### **Ferramentas & DevOps**
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,idea" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,postman,idea" />
 
 ### **Bancos de Dados**
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 </div>
 
@@ -49,7 +49,7 @@
 
 ## 📚 Atualmente estudando
 
-- 🔸 **Arquitetura Hexagonal** e **Clean Architecture**
+- 🔸 **Tipos de arquitetura** e **Clean Architecture**
 - 🔸 **Spring Security** e autenticação JWT
 - 🔸 **Docker** e containerização de aplicações
 - 🔸 **Testes automatizados** (JUnit 5, Mockito, TestContainers)
