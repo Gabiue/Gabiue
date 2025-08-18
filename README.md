@@ -1,8 +1,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-  <h1>Gabriel Kauê</h1>
-  <h3>Java Developer | Backend Enthusiast | Always Learning</h3>
+  <h1>Gabriel Kaue</h1>
+  <h3>Java Developer | Backend | Always Learning</h3>
   
 </div>
 
@@ -52,11 +52,11 @@
 ---
 
 
-<<p align="center">
+<p align="center">
   <em>"Learning • Coding • Growing"</em>
   <br>
   🎯 Java Developer in the making
-  <br>
+  <br><br>
   <img src="https://img.shields.io/github/followers/Gabiue?style=social" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=Gabiue&color=blueviolet&style=for-the-badge&label=VISITORS" />
