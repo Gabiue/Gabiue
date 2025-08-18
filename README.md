@@ -45,7 +45,7 @@
 ---
 
 ## 📫 Contato
-<p align="center" style="display: flex; justify-content: center; gap: 5px;">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="mailto:gabrielkauerodrigues@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
