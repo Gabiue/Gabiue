@@ -14,6 +14,14 @@ Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de 
 
 ---
 
+## 📚 Próximos passos
+- 🔸 **JPA/Hibernate** - Mapeamento objeto-relacional
+- 🔸 **Spring Security** - Autenticação e autorização  
+- 🔸 **Docker** - Containerização de aplicações
+- 🔸 **Testes** - JUnit e Mockito
+
+---
+
 ## 🧰 Tecnologias & Ferramentas
 <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,linux,git,github" />
 
@@ -35,12 +43,26 @@ Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de 
 ---
 
 ## 📫 Contato
-- ✉️ Email: **gabrielkauerodrigues@gmail.com**
-- 💼 LinkedIn: [Gabriel Kaue](https://www.linkedin.com/in/gabriel-kaue/)
-- 🔗 Portfólio (futuro): **em construção...**
+<p align="center">
+  <a href="mailto:gabrielkauerodrigues@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-kaue/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gabiue">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 <p align="center">
-  🚀 "Programar é transformar café em código — e bugs em aprendizado."
+  ⚡ "Programar é transformar café em código — e bugs em aprendizado."
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Gabiue&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
