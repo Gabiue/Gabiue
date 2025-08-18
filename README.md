@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+sou+Gabriel+Rodrigues!+👋;Desenvolvedor+Java+Backend;Apaixonado+por+Tecnologia!;Sempre+em+busca+de+novos+desafios!&center=true&size=25&color=f75c7e">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+sou+Gabriel+Rodrigues!+👋;Desenvolvedor+Java+Backend;Apaixonado+por+Tecnologia!;Sempre+em+busca+de+novos+desafios!&center=true&size=20&color=0e6b0e">
 </div>
 
 <div align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px">
 </div>
 
 <p align="center">
