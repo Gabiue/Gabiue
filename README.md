@@ -56,7 +56,6 @@ Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de 
 </p>
 
 ---
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
