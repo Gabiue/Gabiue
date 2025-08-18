@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gabriel%20Kauê&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff"/><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gabriel%20Kauê&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff"/><br>
 Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de código e aprendizado constante.
 </p>
 
