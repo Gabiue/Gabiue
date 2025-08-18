@@ -56,12 +56,11 @@ Desenvolvedor apaixonado por tecnologia, engenharia de software, arquitetura de 
 </p>
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
 
 <p align="center">
   ⚡ "Programar é transformar café em código — e bugs em aprendizado."
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Gabiue&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <br>
 </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
