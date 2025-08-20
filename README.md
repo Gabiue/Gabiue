@@ -35,7 +35,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabiue&theme=radical&hide_border=true" />
 </p>
 <p align = "center">
-  <img width = "38%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiue&layout=compact&theme=radical&hide_border=true&t=20250817"/>
+  <img width = "38%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiue&layout=compact&theme=radical&t=20250817"/>
 </p>
 ---
 
