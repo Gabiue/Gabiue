@@ -35,13 +35,15 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabiue&theme=radical&hide_border=true" />
 </p>
 <p align = "center">
-  <img width = "38%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiue&t=20250817&layout=compact&theme=radical&hide_border=true"/>
+  <img width = "38%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiue&layout=compact&theme=radical&hide_border=true"/>
 </p>
 ---
 
 ## 💼 Projetos em destaque
  - 🏠 [Real Estate System](https://github.com/GabiuE/real-estate-system) → API REST para gestão imobiliária com Java, Spring Boot e MySQL. Sistema completo para controle de clientes, imóveis e propostas comerciais, aplicando Clean Architecture.
+ - 📚 [Java-Toolbox](https://github.com/GabiuE/java-toolbox) → Repositório completo para dominar a biblioteca padrão do Java. Exemplos práticos de Strings, Regex, Collections, Streams, POO (4 pilares), com foco em código limpo e documentação rica.
 - 🔗 [Java-Drops](https://github.com/GabiuE/java-drops) → Estudos diários de Java, praticando POO e conceitos fundamentais.
+
 ---
 
 ## 📫 Contato
