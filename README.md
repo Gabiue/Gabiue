@@ -104,7 +104,7 @@ Gosto de construir ferramentas que resolvem problemas reais, e uma delas já foi
 </p>
 
 <p align="center">
-  <img height="190" src="https://gitglance-eight.vercel.app/api/activity?username=Gabiue&theme=tokyonight&hide_border=true" alt="Atividade de commits" />
+  <img height="190" src="https://github-readme-stats-fast.vercel.app/api?username=Gabiue&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="190" src="https://gitglance-eight.vercel.app/api/donut?username=Gabiue&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
