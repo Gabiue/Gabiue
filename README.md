@@ -22,8 +22,6 @@ Comecei no back-end com Java e Spring Boot e hoje estou migrando para **engenhar
 
 Gosto de construir ferramentas que resolvem problemas reais, e uma delas já foi vendida e roda em produção.
 
-<sub>🌳 A árvore ao lado cresce sozinha conforme eu faço commits.</sub>
-
 <br clear="right"/>
 <br/>
 
