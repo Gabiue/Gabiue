@@ -109,6 +109,10 @@ Gosto de construir ferramentas que resolvem problemas reais, e uma delas já foi
 </p>
 
 <p align="center">
+  <img height="190" src="https://streak-stats.demolab.com/?user=Gabiue&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Gabiue/Gabiue/output/snake.svg" alt="Cobrinha comendo meu gráfico de contribuições" />
 </p>
 
