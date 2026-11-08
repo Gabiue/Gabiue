@@ -100,13 +100,13 @@ Gosto de construir ferramentas que resolvem problemas reais, e uma delas já foi
 ## 📈 GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Gabiue&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=Gabiue&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="47%" src="https://github-readme-stats-fast.vercel.app/api?username=Gabiue&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img width="50%" src="https://streak-stats.demolab.com/?user=Gabiue&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://gitglance-eight.vercel.app/api/donut?username=Gabiue&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-  <a href="https://leetcode.com/u/Gabi_ue/"><img height="180" src="https://leetcard.jacoblin.cool/Gabi_ue?theme=dark&font=Noto%20Sans&animation=false&colors=1a1b27,24283b,c0caf5,7aa2f7,9ece6a,e0af68,f7768e" alt="LeetCode stats" /></a>
+  <img width="38%" src="https://gitglance-eight.vercel.app/api/donut?username=Gabiue&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <a href="https://leetcode.com/u/Gabi_ue/"><img width="59%" src="https://leetcard.jacoblin.cool/Gabi_ue?theme=dark&font=Noto%20Sans&animation=false&colors=1a1b27,24283b,c0caf5,7aa2f7,9ece6a,e0af68,f7768e" alt="LeetCode stats" /></a>
 </p>
 
 <p align="center">
