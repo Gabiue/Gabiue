@@ -42,7 +42,7 @@ Gosto de construir ferramentas que resolvem problemas reais, e uma delas já foi
 <table>
   <tr>
     <td align="center"><b>Dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,mysql,azure" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,mysql,azure" /> <img src="assets/databricks.svg" width="48" alt="Databricks" title="Databricks" /> <img src="assets/pyspark.svg" width="48" alt="PySpark" title="PySpark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Back-end</b></td>
