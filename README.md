@@ -100,16 +100,13 @@ Gosto de construir ferramentas que resolvem problemas reais, e uma delas já foi
 ## 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=Gabiue&theme=ubuntu&color=1&scale=0.7" alt="GitHub neofetch" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Gabiue&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Gabiue&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats-fast.vercel.app/api?username=Gabiue&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="190" src="https://gitglance-eight.vercel.app/api/donut?username=Gabiue&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img height="190" src="https://streak-stats.demolab.com/?user=Gabiue&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="180" src="https://gitglance-eight.vercel.app/api/donut?username=Gabiue&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <a href="https://leetcode.com/u/Gabi_ue/"><img height="180" src="https://leetcard.jacoblin.cool/Gabi_ue?theme=dark&font=Noto%20Sans&animation=false&colors=1a1b27,24283b,c0caf5,7aa2f7,9ece6a,e0af68,f7768e" alt="LeetCode stats" /></a>
 </p>
 
 <p align="center">
