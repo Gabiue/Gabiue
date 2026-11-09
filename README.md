@@ -68,13 +68,12 @@ Gosto de construir ferramentas que resolvem problemas reais, e uma delas já foi
       <br/><sub>🔒 repositório privado</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>📨 Automação de Reclamações</h3>
-      Recebe reclamações de clientes, gera o documento em PDF e envia por e-mail sozinho. <b>Vendido e em produção</b> numa empresa. Sendo reescrito de Apps Script para Python.
+      <h3>📨 <a href="https://github.com/Gabiue/Automacao-Reclamacao-Imobiliaria">Automação de Reclamações</a></h3>
+      Recebe reclamações de clientes pelo Google Forms, gera o termo de manutenção em PDF, salva no Drive e envia por e-mail sozinho. <b>Vendido e em produção</b> numa empresa.
       <br/><br/>
       <img src="https://img.shields.io/badge/Apps%20Script-24283b?style=flat-square&logo=google&logoColor=7aa2f7" />
-      <img src="https://img.shields.io/badge/Python-24283b?style=flat-square&logo=python&logoColor=7aa2f7" />
-      <img src="https://img.shields.io/badge/Google%20APIs-24283b?style=flat-square&logo=googlecloud&logoColor=7aa2f7" />
-      <br/><sub>🔒 código do cliente</sub>
+      <img src="https://img.shields.io/badge/Google%20Sheets-24283b?style=flat-square&logo=googlesheets&logoColor=7aa2f7" />
+      <img src="https://img.shields.io/badge/Google%20Drive-24283b?style=flat-square&logo=googledrive&logoColor=7aa2f7" />
     </td>
   </tr>
   <tr>
